@@ -5,7 +5,7 @@
 2. 命令行输入 sudo apt-get update ，然后输入
 sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git libncurses5-dev libz-dev patch python3.5 unzip zlib1g-dev lib32gcc1 libc6-dev-i386 subversion flex uglifyjs git-core gcc-multilib p7zip p7zip-full msmtp libssl-dev texinfo libglib2.0-dev xmlto qemu-utils upx libelf-dev autoconf automake libtool autopoint device-tree-compiler g++-multilib antlr3 gperf
 
-3. git clone https://gitee.com/wisdpi/routerpi_openwrt 命令下载好源代码，然后 cd routerpi_openwrt 进入目录
+3. git clone https://github.com/wisdpi/routerpi_openwrt 命令下载好源代码，然后 cd routerpi_openwrt 进入目录
 
 4. ./scripts/feeds clean
 
@@ -26,7 +26,7 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
  
  -----------------------------------------------------
  
-My app source code: https://gitee.com/wisdpi/routerpi_openwrt
+My app source code: https://github.com/wisdpi/routerpi_openwrt
 
 This is the buildsystem for the OpenWrt Linux distribution.
 
